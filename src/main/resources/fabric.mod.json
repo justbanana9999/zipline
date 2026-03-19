@@ -28,6 +28,6 @@
     "minecraft": "${minecraft_version}"
   },
   "breaks": {
-    "connectiblechains": "<2.5.2+1.21.1"
+    "connectiblechains": "<2.5.2+1.21.11"
   }
 }
